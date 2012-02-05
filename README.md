@@ -6,7 +6,8 @@ Config file
 --
 The config file must be placed in `./.git/ftpconfig` of your git repository
 
-Example
+Example:
+
 	[master]
 	server = 192.168.1.1
 	port = 21
